@@ -1,9 +1,9 @@
 # Customer-Churn-Analysis
-Overview:
+📝 Overview:
 
 Customer churn analysis is a crucial process for businesses aiming to understand why customers leave and to identify strategies to retain them. It involves analyzing historical data to uncover patterns and factors that contribute to customer attrition. By understanding these factors, companies can implement targeted interventions to reduce churn rates and enhance customer loyalty.
 
-Problem Statement:
+❓ Problem Statement:
 
 In the context of customer churn analysis, the primary problem is to determine which customers are likely to churn (i.e., discontinue using a product or service) and understand the underlying reasons behind their decision.
 
